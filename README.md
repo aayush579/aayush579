@@ -1,110 +1,152 @@
-# 👋 Hi, I'm Aayush
+# 👋 Hi, I'm Aayush Singh
 
-🚀 **Software Engineering Student | C++ | AI Systems | Full-Stack Developer**  
-🎓 Passionate about building **intelligent systems**, **scalable software**, and **real-world problem solvers**
+🚀 **Software Engineering Student | Full-Stack Developer | AI & IoT Enthusiast**
+
+🎓 Computer Science undergraduate passionate about building scalable software, intelligent applications, real-time systems, and impactful technology solutions.
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Undergraduate student with a strong foundation in **Computer Science & Software Engineering**
-- 💻 Primary language: **C++** (DSA, OOP, STL)
-- 🤖 Creator of **Jarvis AI** – a personal AI assistant inspired by Iron Man’s J.A.R.V.I.S
-- 🌐 Experience in **Full-Stack Development**, **Python**, and **AI-driven applications**
-- 🎯 Actively preparing for **Software Engineering Internships** (Google, Microsoft, GSoC)
-- 📈 Focused on **clean architecture, performance, and scalability**
+* 🎓 B.Tech Computer Science & Engineering student at NIET
+* 💻 Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks
+* 🌐 Interested in Full-Stack Development, Real-Time Applications, and Software Engineering
+* 🤖 Building AI-powered tools and automation systems
+* 🔌 Exploring IoT and embedded systems through hardware-software integration projects
+* 🎯 Actively preparing for Software Engineering Internships, Open Source Programs, and GSoC
 
-> *I don’t just build projects — I engineer systems.*
+> *I enjoy solving real-world problems through software and continuously improving my engineering skills through hands-on projects.*
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-- **C++** (Primary – DSA, OOP, STL)
-- Python
-- JavaScript
 
-### 🌐 Web & App Development
-- React.js
-- Node.js
-- HTML, CSS, Tailwind CSS
-- REST APIs
+* C++
+* Python
+* JavaScript
+* Dart
+* SQL
+* C
+
+### 🌐 Full-Stack Development
+
+* React.js
+* Node.js
+* Express.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* REST APIs
+* Socket.IO
+
+### 📱 Mobile Development
+
+* Flutter
+
+### 🗄️ Databases
+
+* MySQL
+* MongoDB
 
 ### 🤖 AI & Automation
-- OpenAI API / LLM Integration
-- Agent-based systems
-- Task automation & schedulers
 
-### 🧰 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Linux / Windows
-- Notion, Google Calendar APIs
+* OpenAI API Integration
+* Generative AI
+* AI Assistants
+* Prompt Engineering
+* Workflow Automation
+
+### 🔌 IoT & Embedded Systems
+
+* ESP32
+* NodeMCU
+* Wireless Communication
+* Sensor Integration
+
+### 🧰 Tools
+
+* Git
+* GitHub
+* Linux
+* VS Code
+* Postman
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Jarvis AI – Personal Intelligent Assistant
-**Tech:** Python, AI APIs, Automation, React + Electron
+### 🎮 Pixel Arena – Real-Time Multiplayer Fighting Game
 
-- Voice & text-based AI assistant
-- Task reminders, memory storage, scheduling
-- Plugin-based scalable architecture
-- Autonomous agent mode for background execution
-- Desktop GUI with mobile sync preview
+**Tech:** JavaScript, Node.js, Express.js, Socket.IO, JWT, Canvas API
 
-🔒 *Private / Ongoing Major Project*
-
----
-
-### 🏦 Banking System – Console Application (C++)
-**Tech:** C++, Object-Oriented Programming
-
-- Abstract classes and inheritance
-- Secure transaction handling
-- Modular and clean architecture
-- Designed like a real-world banking backend
-
-🔗 [View Repository](#)
+* Built a full-stack multiplayer fighting game with real-time synchronization.
+* Implemented JWT authentication, matchmaking, room management, and lobby systems.
+* Developed combat mechanics, health systems, and win/loss detection.
+* Utilized WebSockets for low-latency multiplayer communication.
+* Designed a responsive browser-based gaming experience.
 
 ---
 
-### 🎮 Flappy Bird – CLI Game (C++)
-**Tech:** C++
+### 🤖 Jarvis AI Assistant
 
-- Game loop and collision detection
-- Score tracking and difficulty scaling
-- Strong logic and control flow implementation
+**Tech:** Python, OpenAI API, Automation
 
-🔗 [View Repository](#)
+* Developing an AI-powered productivity assistant.
+* Includes task management, reminders, memory storage, and automation workflows.
+* Designed with a modular architecture to support future expansion.
+* Ongoing project focused on intelligent assistant capabilities.
 
 ---
 
-### 📱 NIDAAN – Civic Issue Reporting System
-**Tech:** Mobile App Development, Backend APIs
+### 🔌 ESP32 Smart Rover
 
-- Digital platform for reporting civic issues
-- User-friendly reporting and tracking system
-- Focused on solving real-world problems
+**Tech:** ESP32, Flutter, IoT
 
-🔗 [View Repository](#)
+* Developed a Wi-Fi controlled robotic rover using ESP32.
+* Integrated motor control systems and remote command execution.
+* Built mobile-based control interfaces for rover operation.
+* Explored real-time communication between hardware and software systems.
+
+---
+
+### 📱 NIDAAN – Civic Issue Reporting Platform
+
+**Tech:** Flutter, Mobile Development
+
+* Developed a platform for reporting and tracking civic issues.
+* Designed workflows for issue submission and status management.
+* Focused on user-centric design and scalable architecture.
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced **Data Structures & Algorithms (C++)**
-- **System Design** fundamentals
-- **Low-level programming concepts**
-- **Scalable AI agent architectures**
+* Advanced Data Structures & Algorithms
+* System Design Fundamentals
+* Backend Architecture
+* Software Engineering Best Practices
+* AI Agent Systems
 
 ---
 
 ## 📊 GitHub Philosophy
 
 ```text
-🔥 Consistent learner
-🚀 Project-driven engineer
-🧠 System-level thinker
+Build → Learn → Improve
+
+💻 Write maintainable code
+🚀 Build real-world projects
+🧠 Learn continuously
+⚙️ Understand systems deeply
+📈 Improve every day
+```
+
+---
+
+### 📫 Connect With Me
+
+* GitHub: github.com/aayush579
+* LinkedIn: linkedin.com/in/aayush579
+* Email: [singhaayush579@gmail.com](mailto:singhaayush579@gmail.com)
