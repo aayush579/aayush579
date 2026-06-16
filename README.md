@@ -129,7 +129,7 @@
 * Software Engineering Best Practices
 * AI Agent Systems
 
----
+----
 
 ## 📊 GitHub Philosophy
 
