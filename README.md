@@ -98,7 +98,7 @@
 * Designed with a modular architecture to support future expansion.
 * Ongoing project focused on intelligent assistant capabilities.
 
----
+----
 
 ### 🔌 ESP32 Smart Rover
 
