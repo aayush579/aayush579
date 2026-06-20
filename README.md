@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Aayush Singh
 
 🚀 **Software Engineering Student | Full-Stack Developer | AI & IoT Enthusiast**
+https://aayush-portfolio-coral.vercel.app/
 
 🎓 Computer Science undergraduate passionate about building scalable software, intelligent applications, real-time systems, and impactful technology solutions.
 
