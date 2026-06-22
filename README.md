@@ -5,7 +5,7 @@ https://aayush-portfolio-coral.vercel.app/
 
 🎓 Computer Science undergraduate passionate about building scalable software, intelligent applications, real-time systems, and impactful technology solutions.
 
----
+----
 
 ## 🧠 About Me
 
